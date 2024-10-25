@@ -1,2 +1,2 @@
 # odin-recipes
-A basic recipe website.
+This project is a simple Recipe Website built as part of The Odin Project curriculum.
